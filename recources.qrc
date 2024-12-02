@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>images/circle-xmark.svg</file>
+        <file>images/copy.svg</file>
+        <file>images/delete.svg</file>
+        <file>images/gears.svg</file>
+        <file>images/paste.svg</file>
+        <file>images/redo.svg</file>
+        <file>images/undeo.svg</file>
+    </qresource>
+</RCC>
