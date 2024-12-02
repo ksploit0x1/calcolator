@@ -16,5 +16,5 @@ To run the calculator on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simple-calculator.git
-2. Open folder with QtDesiner and Click run !
+   git clone https://github.com/ksploit0x1/calcolator.git
+2. Open folder with Qt creator and Click run !
